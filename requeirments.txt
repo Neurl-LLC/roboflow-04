@@ -1,0 +1,4 @@
+inference
+opencv-python
+python-dotenv
+pyzmq
